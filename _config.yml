@@ -11,16 +11,16 @@ relative_permalinks: true
 # Setup
 title:               Chocolate Fudge
 tagline:             'My Blog'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'This blog shall purvey random meanderings of the mind of the great Mr. Apaar Shanker'
 url:                 http://auag92.github.io
-baseurl:             /blog/
-paginate:            5
+baseurl:             /blog
+paginate:            10
 
 # About/contact
 author:
   name:              Apaar Shanker
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               https://twitter.com/apaarshanker
+  email:             apaar92@gmail.com
 
 # Custom vars
 version:             1.0.0
