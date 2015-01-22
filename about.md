@@ -24,4 +24,3 @@ we can totally hit it off!
 Enjoy!
 
 Apaar
-[email me!][email]
