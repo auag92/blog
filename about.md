@@ -26,4 +26,4 @@ Enjoy!
 
 Apaar
 
-[email me!]({{ author.email }})
+[email me!](apaar92@gmail.com)
