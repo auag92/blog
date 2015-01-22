@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               Chocolate Fudge
-tagline:             'My Blog'
-description:         'This blog shall purvey random meanderings of the mind of the great Mr. Apaar Shanker'
+tagline:             'The mind's meanderings'
+description:         'Random thoughts, wierd insights and wonkish rants.'
 url:                 http://auag92.github.io
 baseurl:             /blog
 paginate:            10
