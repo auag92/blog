@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About me!
+title: About
 ---
 
-<p class="message">
-Hey there!
-</p>
+# Hey there!
 
 This is Apaar Shanker. Right now I am an undergrad at IISc,
 Bangalore in my senior year. I am majoring in material Science.
@@ -26,4 +24,4 @@ Enjoy!
 
 Apaar
 
-email me @: {{ site.author.email }}
+email me @ {{ site.author.email }}
