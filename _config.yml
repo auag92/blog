@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Chocolate Fudge
-tagline:             'The mind's meanderings'
+tagline:             "The mind's meanderings"
 description:         'Random thoughts, wierd insights and wonkish rants.'
 url:                 http://auag92.github.io
 baseurl:             /blog
