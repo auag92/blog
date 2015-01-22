@@ -26,4 +26,4 @@ Enjoy!
 
 Apaar
 
-<a href="apaar92@gmail.com">email me!</a> 
+[email me!]({{ site.author.email }}) 
