@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Weary!!!
+title: Code Weary!
 ---
 
 Mixed feelings are not good. Fence sitting never is and its worse when one can't be sure about ones own fickle mind.

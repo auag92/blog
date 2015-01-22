@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me!
 ---
 
 <p class="message">
@@ -26,4 +26,4 @@ Enjoy!
 
 Apaar
 
-email me @ apaar92@gmail.com 
+email me @: {{ site.author.email }
