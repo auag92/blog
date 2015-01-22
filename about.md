@@ -26,4 +26,4 @@ Enjoy!
 
 Apaar
 
-[email me!](apaar92@gmail.com)
+<a href="apaar92@gmail.com">email me!</a> 
