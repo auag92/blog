@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Has socialism become irrelevant?
+published: false
 date: 2015-01-24 22:55:45
 ---
 
