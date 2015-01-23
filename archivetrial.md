@@ -10,5 +10,5 @@ title: Archive
     <ul>
     {% capture year %}{{currentyear}}{% endcapture %}
   {% endif %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">* {{ post.date | date_to_string }} &raquo; [ {{ post.title }}</a></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">* {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]</a></li>
 {% endfor %}
