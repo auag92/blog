@@ -5,6 +5,8 @@ title: About
 
 # Hey there!
 
+![Thats me]({{ site.baseurl }}/images/me.jpg)
+
 This is Apaar Shanker. Right now I am an undergrad at IISc,
 Bangalore in my senior year. I am majoring in material Science.
 
