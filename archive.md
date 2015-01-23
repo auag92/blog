@@ -5,6 +5,7 @@ title: Archive
 
 ## Blog Posts
 
+
 {% for post in site.posts %}
   {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
     {% if currentyear != year %}
@@ -13,5 +14,5 @@ title: Archive
       <ul>
       {% capture year %}{{currentyear}}{% endcapture %}
     {% endif %}
-    *{{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
