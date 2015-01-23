@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Has socialism become irrelevant?
-published: false
+published: true
+date: 2015-01-23 22:40:45
 ---
 
 Victorian England in the mid 1800's was in the thores of the first wave of industrial capitalism. Emergence of large urban centres like manchester and liverpool, multinational corporations like the East India Company marked this age.
