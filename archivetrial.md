@@ -3,7 +3,7 @@ layout: page
 title: Archive Trial
 ---
 {% for post in site.posts %}
-{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+{% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
 {% if currentyear != year %}
 {% unless forloop.first %}</ul>{% endunless %}
 <h1>{{ currentyear }}</h1>
