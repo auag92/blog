@@ -29,3 +29,4 @@ gems: ["emoji_for_jekyll"]
 
 timezone: Asia/Kolkata
 future: False
+force_polling: True
