@@ -2,6 +2,7 @@
 layout: post
 title: The Hindu Hipster
 published: false
+date: 2015-01-24 22:55:45
 ---
 
 Victorian England in the mid 1800's was in the thores of the first wave of industrial capitalism. Emergence of large urban centres like manchester and liverpool, multinational corporations like the East India Company marked this age.

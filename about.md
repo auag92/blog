@@ -13,8 +13,8 @@ Bangalore in my senior year. I am majoring in material Science.
 I am an avowed bookworm, a map addict, a wannabe foreign policy
 wonk and a self acclaimed history and economics aficionado.
 
-I like talking a lot. I am a good listener too. Sometimes I am
-rude, other times affable. I like visiting places but I prefer
+I like talking a lot. I am a good listener too. I can be obnoxiously frank and
+annoyingly evasive. I like visiting places but I prefer
 sitting by myself in the winter sun and letting my mind wander
 through a good travelogue.
 
