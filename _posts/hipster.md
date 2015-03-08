@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Has socialism become irrelevant?
+title: The Hindu Hipster
 published: false
 ---
 
