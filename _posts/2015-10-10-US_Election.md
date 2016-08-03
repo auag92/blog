@@ -1,11 +1,14 @@
 ---
 layout: post
-title: On the altar of money
+title: The Election Chronicles
 comments: True
-published: False
+published: True
 ---
 
-Hi, So we want this to be about the US elections.
+Hi, So this is going to be about the US elections.
+
+I have been meaning to write something about this for a long time. Politics is
+my favourite area of interest.
 
 What goes on? Who are the parties? What's the prize cake? Who are the shadow
 actors and who are the puppet masters etc. etc. etc.
@@ -32,4 +35,3 @@ the polity:
 
  external forces:
  Lobbysists, Funders, Superpacs
- 
