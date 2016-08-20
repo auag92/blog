@@ -1,4 +1,4 @@
----
+  ---
 layout: post
 title: The Election Chronicles
 comments: True
@@ -21,7 +21,7 @@ Geographical Separation: The U.S. Midwest, South, Northeast, West and Northwest
 
 Apaar do not be such a pushover when you can be somebody.
 
-Apaar is it not right that yo u can actually nag me into doing something,
+Apaar is it not right that you can actually nag me into doing something,
 that would be
 
 Saving ass:
