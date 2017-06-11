@@ -2,7 +2,7 @@
 layout: post
 title: The Election Chronicles
 comments: True
-published: True
+published: False
 ---
 
 Hi, So this is going to be about the US elections.
