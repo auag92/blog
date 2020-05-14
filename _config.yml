@@ -1,6 +1,6 @@
 # Dependencies
 markdown:            kramdown
-highlighter:         pygments
+highlighter:         rouge
 
 # Permalinks
 #
@@ -8,8 +8,8 @@ highlighter:         pygments
 permalink:           pretty
 
 # Setup
-title:               Chocolate Fudge
-tagline:             "The mind's meanderings"
+title:               Connecting the dots
+tagline:             "musings and meanderings"
 description:         'Random thoughts, wierd insights and wonkish rants.'
 url:                 http://auag92.github.io
 baseurl:             /blog
@@ -18,7 +18,7 @@ paginate:            10
 # About/contact
 author:
   name:              Apaar Shanker
-  url:               https://twitter.com/apaarshanker
+  url:               https://twitter.com/ShankerApaar
   email:             apaar92@gmail.com
 
 # Custom vars
