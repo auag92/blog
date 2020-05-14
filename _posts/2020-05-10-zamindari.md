@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caste and Colonialism: Reconciling the current social and economic realities of East India with its history. 
+title: Caste and Colonialism-Reconciling the social and economic realities of Eastern India with its history. 
 comments: True
 published: True
 ---
