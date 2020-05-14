@@ -8,8 +8,8 @@ highlighter:         rouge
 permalink:           pretty
 
 # Setup
-title:               Connecting the dots
-tagline:             "musings and meanderings"
+title:               Connecting the dots...
+tagline:             "some musings and meanderings"
 description:         'Random thoughts, wierd insights and wonkish rants.'
 url:                 http://auag92.github.io
 baseurl:             /blog
