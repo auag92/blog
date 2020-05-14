@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Caste and Colonialism-Reconciling the social and economic realities of Eastern India with its history. 
+title: Caste and Colonialism in Eastern India 
 comments: True
 published: True
 ---
+### work in progress...
+Reconciling the social and economic realities of Eastern India with its history: An analysis of the impact of the Company's capital extraction mechanisms on the society in Eastern India - the changes it wrought and the long term consequences.
 
 I keep finding instances till very recent times of Shudra and other non Kshatirya dynastic rules...More generally the shudra castes comprised the artisan/craftsmen/skilled labour section of society -> ... Brahmins on the other hand traditionally did not engage in skilled activities (even land owning/tilling was considered a taboo). The notion that a given Jaati is superior or inferior seems to be a very recent idea, and particularly a side effect of british destruction of local economy.
 
