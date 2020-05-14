@@ -1,2 +1,2 @@
-blog
+Personal Opinions
 ====
